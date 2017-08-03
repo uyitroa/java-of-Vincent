@@ -1,0 +1,12 @@
+joueur  input nbr (Type : String )
+ecrire resultat de la somme joueur input
+
+
+creer list // pour enregistrer les nombre dedans pour le calcul (Type : integer )
+creer une boucle for // pour trouver tous les chiffres dans le nombre joueur input
+trouver chiffre dans nombre joueur input // pour pouvoir calculer apres (Type : Character )
+Convertir character to integer 
+enregistrer ces chiffres dans le list // pour pouvoir faire le calcul (Type : integer )
+calcul la somme des chiffres (Type : integer ) 
+retourner somme //pour pouvoir ecrire la somme (Type : integer )
+

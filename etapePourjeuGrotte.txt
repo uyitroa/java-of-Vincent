@@ -1,0 +1,21 @@
+afficher Dragon Dungeon
+creer boucle while
+afficher --Bienvenue dans ce monde de merde--
+afficher --Il y a 2 grotte devant toi --
+affiche Une grotte il y a un dragon qui dors, et tu survivras
+affiche Une grotte il y a un dragon qui va t'enculer.
+affiche Tu choisi quelle grotte? 
+1. Premiere grotte  
+2.Deuxieme grotte
+creer vraible random pour renouveler la grotte 
+creer variable choix input
+si le joueur a choisi la mauvaise grotte, afficher Tu est dans le caca
+si le joueur a choisi a bonne grotte , afficher felicitations
+demander au joueur de recommencer   
+
+
+
+debugPrint A
+
+debugPrint B
+
