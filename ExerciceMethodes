@@ -1,0 +1,51 @@
+Ex 1: 
+Cette programme est pour savoir si le février de l'année que tu veux a 28 ou 29 jours.
+Ecris l'année que tu veux: 2017
+28 jours
+Refaire? Oui
+Ecris l'année que tu veux: 2016
+29 jours
+Refaire? Oui
+Ecris l'année que tu veux: 2020
+29 jours
+Refaire? Non
+
+Consigne:
+crée une méthode nom checkYear() pour savoir le nombre de jours du février
+
+Ex 2:
+Cette programme est pour calculer le carré d'un nombre plus petit que 500
+Ecris le nombre que tu veux(plus petit que 500): 501
+T'es aveugle? Plus petit que 500!!
+Ecris le nombre que tu veux(plus petit que 500): 1000
+T'es aveugle? Plus petit que 500!!
+Ecris le nombre que tu veux(plus petit que 500): 600
+T'es aveugle? Plus petit que 500!!
+Ecris le nombre que tu veux(plus petit que 500): 300
+Le carré de 300 est 90000
+
+Consigne:
+crée une méthode nom: squareOf() pour calculer le carré
+
+Ex 3:
+Cette programme est pour choisir au hasard un nombre dans la limite
+
+Donne moi la limite: 500
+Nombre choisi au hasard: 300 (non input)
+Refaire? Oui
+Donne moi la limite: 2
+Nombre chois au hasard: 2 (non input)
+
+Consigne:
+crée une méthode nom: randomRange() pour choisir au hasard un nombre dans la limite
+
+Ex 4:
+Cette prgramme est pour choisir au hasard une lettre dans l'alphabet //Crée une méthode(ou pas comme tu veux)
+
+Lettre au hasard: d
+Refaire? 1. Oui  2.Non: 1
+Lettre au hasard: w
+Refaire? 1. Oui  2. Non: 2
+Bye
+
+//Faut chercher sur internet comment chiosir au hasard une lettre dans l'alphabet ;P
