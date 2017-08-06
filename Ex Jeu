@@ -1,0 +1,48 @@
+Crée un jeu
+1. Tu devine
+2. Oridinateur devine
+Ton choix: 1 (input)
+
+L'ordinateur va choisir un nombre entre 0-10
+Tu vas deviner c'est quoi ce nombre
+//Imagine le nombre choisi est 6
+Devine ce nombre: 9 (input)
+Nope, ressaie
+Devine ce nombre: 10 (input)
+Nope, ressaie
+Devince ce nombre: 6 (input)
+Ouais, bien joué!
+
+Rejoue? Oui
+
+1. Tu devine
+2. Oridinateur devine
+Ton choix: 2 (input)
+
+Choisi un nombre entre 0-10
+C'est bon? Oui (input)
+Est-ce que ton nombre est 10: Non (input)
+Est-ce que ton nombre est 8: Oui (input)
+Ouais, j'ai gagné!
+
+Consigne:
+Crée une methode selectNumber() JUSTE pour choisir un nombre au hasard.
+Cree une méthode untilCorrectNumber() pour que le joueur devine jusqu'à quand il a réussi.
+Crée une methode mainChoice1() JUSTE pour le jeu devinette que tu devine (Example ligne 35)
+Cree une methode untilComputerGuessed() pour que l'ordinateur devine jusqu'a quand il a réussi.
+Cree une methode mainChoice2() JUSTE pour le jeu devinette que l'oridinateur devine.
+
+Example dans: 
+
+public static void main(String[] args)
+{
+    System.out.print("1.Tu devine \n 2.L'ordi devine\nTon choix: ");
+    int choix = sc.nextInt();
+    if choix == 1:
+         mainChoice1(); //Là, tu fais demarrer le jeu quand tu devine
+    if choix == 2:
+         mainChoice2(); // Là, tu fais demarrer le jeu quand l'ordi devine
+    System.out.print("Rejoue?")
+    sc.nextLine();
+    String repete = sc.nextLine();
+}
